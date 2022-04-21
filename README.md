@@ -8,5 +8,5 @@ $ kanji-counter <data-file> <wanikani-level>
 ```
 The first argument is the path to the data file. The second argument is the level of the user on WaniKani.
 
-# Data file
+## Data file
 The data file was obtained from [here](https://github.com/davidluzgouveia/kanji-data/blob/master/kanji-jouyou.json).
